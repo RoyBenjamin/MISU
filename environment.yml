@@ -1,0 +1,28 @@
+name: MISU
+channels:
+  - pyg
+  - rmg
+  - conda-forge
+  - rdkit
+  - pytorch
+  - defaults
+dependencies:
+  - cudatoolkit=11.3.1
+  - networkx=2.6.3
+  - numpy=1.21.2
+  - pandas=1.4.1
+  - pip=22.0.3
+  - pyg=2.0.3
+  - python=3.9.10
+  - pytorch=1.10.2=py3.9_cuda11.3_cudnn8.2.0_0
+  - rdkit=2021.09.4
+  - scikit-learn=1.0.2
+  - scipy=1.7.3
+  - torchaudio
+  - torchvision
+  - tqdm
+  - pip:
+    - ogb==1.3.2
+    - pytorch-lightning==1.5.10
+    - torchmetrics==0.7.2
+    - wandb==0.12.11
