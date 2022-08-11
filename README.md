@@ -65,5 +65,13 @@ Please cite our paper if you use this code in your own work:
 @inproceedings{misu,
   title     = {Graph Neural Networks Pretraining Through Inherent Supervision for Molecular Property Prediction},
   author    = {Benjamin, Roy and Singer, Uriel and Radinsky, Kira},
+  year      = {2022},
+  publisher = {Association for Computing Machinery},
+  address   = {New York, NY, USA},
+  booktitle = {Proceedings of the 31st ACM International Conference on Information & Knowledge Management},
+  numpages  = {10},
+  keywords  = {Drug Discovery, ML for Healthcare, Molecular Property Prediction},
+  location  = {Atlanta, Georgia, USA},
+  series    = {CIKM '22}
 }
 ```
